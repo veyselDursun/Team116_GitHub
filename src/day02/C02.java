@@ -7,6 +7,7 @@ public class C02 {
         tek bir git komutu yeterli olur
         ancak islemi yapmadan once projemizde commit yaparak
         son halini git'e gondermeliyiz
+
         Senaryo : eski bir commit'e gidip orada inceleme yaptiktan sonra
                   projenin son haline geri donun
         1- projenin son halini commit yapin
