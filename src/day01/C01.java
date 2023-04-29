@@ -2,7 +2,7 @@ package day01;
 
 public class C01 {
 
-    /*
+   /*
 
     1- dersTekrari klasoru icin once local'de git repo olusturalim
     - once terminal/cmd'de derstekrari klasorune gidelim
